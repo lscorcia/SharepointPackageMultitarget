@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="72a1aac4-0470-4e8a-85fe-8f5b11ea67e5" solutionId="72a1aac4-0470-4e8a-85fe-8f5b11ea67e5" resetWebServer="false" name="SP2010Project" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <assemblies>
+    <projectOutputAssembly location="ClassLibraryMultiTarget.dll" deploymentTarget="GlobalAssemblyCache" projectPath="..\ClassLibraryMultiTarget\ClassLibraryMultiTarget.csproj" />
+  </assemblies>
+</package>

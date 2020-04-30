@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="c4016f6d-f0f0-4df2-9cbd-8241e8c93426" solutionId="c4016f6d-f0f0-4df2-9cbd-8241e8c93426" resetWebServer="false" sharePointProductVersion="15.0" name="SP2013Project" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <assemblies>
+    <projectOutputAssembly location="ClassLibraryMultiTarget.dll" deploymentTarget="GlobalAssemblyCache" projectPath="..\ClassLibraryMultiTarget\ClassLibraryMultiTarget.csproj" />
+  </assemblies>
+</package>
